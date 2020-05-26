@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\bin\Debug\Kalkulatorku.exe.config
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\bin\Debug\Kalkulatorku.exe
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\bin\Debug\Kalkulatorku.pdb
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.Form1.resources
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.Properties.Resources.resources
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.exe
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.pdb
+C:\Users\Hp\source\repos\Kalkulatorku\Kalkulatorku\obj\Debug\Kalkulatorku.csproj.CoreCompileInputs.cache
